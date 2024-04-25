@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "chai": "^5.1.0",
+    "chromedriver": "^123.0.0",
+    "debug": "^4.3.4",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.18.1"
+  },
+  "name": "hellocucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "Qori Hidayat",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.3.1"
+  }
+}
