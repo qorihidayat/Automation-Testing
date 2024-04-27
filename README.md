@@ -21,7 +21,7 @@ Automation Testing requires [Node.js](https://nodejs.org/) v20+ to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-cd ISMAIL QORI HIDAYAT
+cd Automation-Testing
 npm i selenium-webdriver
 npm i chromedriver
 npm i --save-dev @cucumber/cucumber
