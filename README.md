@@ -29,9 +29,10 @@ npm test
 ```
 
 ## Usage
--npm test
--wait and done
--report being display in the console
+- npm test
+- wait and done
+- report being display in the console
+
 
 ## explaination
 --Why am i used the cucumber?
