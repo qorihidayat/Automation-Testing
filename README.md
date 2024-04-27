@@ -1,4 +1,4 @@
-# Automation Testing at Ebay.com For Cermati Test
+# Automation Testing at Ebay.com
 
 Hallo Reviewer..
 The automation testing script utilizes Selenium WebDriver, Cucumber, and Node.js to automate testing procedures. Upon executing npm test, the script will navigate to eBay.com, perform predefined actions, and validate expected behaviors as defined in the test scenario.
